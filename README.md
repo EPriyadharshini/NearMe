@@ -185,6 +185,8 @@ place5.html
 ```
 
 ## OUTPUT
+<img width="845" alt="map" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/56804198-d285-4d85-ba55-4a40221b62d6">
+
 <img width="960" alt="place3" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/c324f9aa-9c4d-4534-b630-8f8d616a2c30">
 <img width="958" alt="place2" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/3daa69e4-3eee-41cc-bc39-6b8122702e84">
 <img width="960" alt="place1" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/a2ec93a1-6396-49f6-91bb-e32f6e98568f">
