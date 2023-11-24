@@ -185,7 +185,7 @@ place5.html
 ```
 
 ## OUTPUT
-<img width="845" alt="map" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/56804198-d285-4d85-ba55-4a40221b62d6">
+<img width="960" alt="2023-11-24 (1)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/9fd99c7d-8e65-4c26-851e-7f9db49171de">
 <img width="960" alt="2023-11-24 (9)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/b457fcd5-9062-4872-96fb-bad82f0c5b16">
 <img width="960" alt="2023-11-24 (8)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/fb32e6d2-9736-4ebc-bc88-779234ce1ff0">
 <img width="960" alt="2023-11-24 (6)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/dcc67cc7-8707-4851-a0c2-c8fbe756a35a">
