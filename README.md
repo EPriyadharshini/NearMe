@@ -38,9 +38,9 @@ Execute the programs and publish them.
 
   <area  shape="rectangle"  coords="750,550,880,650"  href ="place1.html"  title="Kanur" >
 <area  shape="rectangle"  coords="300,250,450,350"  href ="place2.html"  title="vellar" >
-<area  shape="rectangle"  coords="700,300,900,350"  href ="place3.html"  title="kudalaythur" >
+<area  shape="rectangle"  coords="700,300,900,350"  href ="place3.html"  title="kudalayathur" >
 <area  shape="circle"  coords="900,500,100"  href="place4.html"  title="munniyappar temple">
-<area  shape="circle"  coords="1300,100,100"  href="place5.html"  title="mariamman temple">
+<area  shape="circle"  coords="1300,100,100"  href="place5.html"  title="mariyamman temple">
 
 </map>
 <body>
@@ -79,7 +79,7 @@ Execute the programs and publish them.
 place2.html
 <html>
 <head>
-<title>Kanur</title>
+<title>vellar</title>
 </head>
 <body style="background-color:aquamarine">
     <h1 align="center">
@@ -106,14 +106,14 @@ place2.html
 place3.html
 <html>
 <head>
-<title>Kanur</title>
+<title>Kudalayathur</title>
 </head>
 <body style="background-color:aquamarine">
     <h1 align="center">
-    <font color="black"><b>kudalaythur</b></font>
+    <font color="black"><b>kudalayathur</b></font>
 </h1>
 <h3 align="center">
-    <font color="white"><b>kudalaythur</b></font>
+    <font color="white"><b>kudalayathur</b></font>
 </h3>
 <hr size="3" color="blue">
 <p align="justify">
@@ -138,7 +138,7 @@ place3.html
 place4.html
 <html>
 <head>
-<title>Kanur</title>
+<title>munniyappar</title>
 </head>
 <body style="background-color:aquamarine">
     <h1 align="center">
@@ -163,14 +163,14 @@ place4.html
 place5.html
 <html>
 <head>
-<title>mariamman</title>
+<title>mariyamman</title>
 </head>
 <body style="background-color:aquamarine">
     <h1 align="center">
-    <font color="red"><b>mariamman</b></font>
+    <font color="red"><b>mariyamman</b></font>
 </h1>
 <h3 align="center">
-    <font color="blue"><b>mariamman</b></font>
+    <font color="blue"><b>mariyamman</b></font>
 </h3>
 <hr size="3" color="blue">
 <p align="justify">
