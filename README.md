@@ -185,11 +185,11 @@ place5.html
 ```
 
 ## OUTPUT
-![Alt text](map.png)
-![Alt text](<2023-11-23 (3).png>)
-![Alt text](place2.png)
-![Alt text](place3.png)
-![Alt text](place5.png)
-![Alt text](place4.png)
+<img width="960" alt="place3" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/c324f9aa-9c4d-4534-b630-8f8d616a2c30">
+<img width="958" alt="place2" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/3daa69e4-3eee-41cc-bc39-6b8122702e84">
+<img width="960" alt="place1" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/a2ec93a1-6396-49f6-91bb-e32f6e98568f">
+<img width="959" alt="place5" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/7386c50c-ffed-4cfd-9ae6-54f326eb120f">
+<img width="952" alt="place4" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/b0741627-d143-48dd-9a98-91515bdbab6b">
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
