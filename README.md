@@ -186,12 +186,11 @@ place5.html
 
 ## OUTPUT
 <img width="845" alt="map" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/56804198-d285-4d85-ba55-4a40221b62d6">
-
-<img width="960" alt="place3" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/c324f9aa-9c4d-4534-b630-8f8d616a2c30">
-<img width="958" alt="place2" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/3daa69e4-3eee-41cc-bc39-6b8122702e84">
-<img width="960" alt="place1" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/a2ec93a1-6396-49f6-91bb-e32f6e98568f">
-<img width="959" alt="place5" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/7386c50c-ffed-4cfd-9ae6-54f326eb120f">
-<img width="952" alt="place4" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/b0741627-d143-48dd-9a98-91515bdbab6b">
+<img width="960" alt="2023-11-24 (9)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/b457fcd5-9062-4872-96fb-bad82f0c5b16">
+<img width="960" alt="2023-11-24 (8)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/fb32e6d2-9736-4ebc-bc88-779234ce1ff0">
+<img width="960" alt="2023-11-24 (6)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/dcc67cc7-8707-4851-a0c2-c8fbe756a35a">
+<img width="960" alt="2023-11-24 (5)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/a628c158-1760-485f-959b-bcc7560ed1c2">
+<img width="960" alt="2023-11-24 (4)" src="https://github.com/EPriyadharshini/NearMe/assets/144870831/9f2799dd-8f26-4f84-9174-0db3b3cbd50d">
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
